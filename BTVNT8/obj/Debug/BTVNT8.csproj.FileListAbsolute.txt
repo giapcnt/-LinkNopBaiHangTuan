@@ -1,0 +1,9 @@
+D:\LTM- 2020\BTVNT8\BTVNT8\bin\Debug\BTVNT8.exe.config
+D:\LTM- 2020\BTVNT8\BTVNT8\obj\Debug\BTVNT8.csprojResolveAssemblyReference.cache
+D:\LTM- 2020\BTVNT8\BTVNT8\obj\Debug\BTVNT8.Form1.resources
+D:\LTM- 2020\BTVNT8\BTVNT8\obj\Debug\BTVNT8.Properties.Resources.resources
+D:\LTM- 2020\BTVNT8\BTVNT8\obj\Debug\BTVNT8.csproj.GenerateResource.Cache
+D:\LTM- 2020\BTVNT8\BTVNT8\bin\Debug\BTVNT8.exe
+D:\LTM- 2020\BTVNT8\BTVNT8\bin\Debug\BTVNT8.pdb
+D:\LTM- 2020\BTVNT8\BTVNT8\obj\Debug\BTVNT8.exe
+D:\LTM- 2020\BTVNT8\BTVNT8\obj\Debug\BTVNT8.pdb
